@@ -1,0 +1,90 @@
+body{
+    background-color:rgb(18, 229, 233);
+}
+#up{
+    padding-left: 37%;
+    padding-bottom: 40px;
+    font-weight: 200px;
+    font-size: 40px;
+    
+    color:rgb(106, 16, 16);
+}
+.size{
+    height: 9vw;
+    background-color: rgb(18, 229, 233);
+    padding-top: 2vw;
+    
+}
+img{
+    width: 10vw;
+    border-radius: 120vw;
+    background-color: transparent;
+    margin-bottom: 170px;
+}
+.do{
+    padding-left: 100px;
+    padding-top:20px;
+    padding-bottom:225px;
+    font-size: 20px
+    
+}
+image:hover{
+    background-color:aquamarine;
+}
+.table{
+    height:220px;
+    background-color: rgb(18, 229, 233);
+}
+
+.color{
+    color:rgb(153, 36, 157);
+}
+#dark{
+    color:blanchedalmond;
+}
+* {box-sizing:border-box}
+
+
+.bag {
+  width: 100%; 
+  background-color: rgb(185, 175, 175);
+}
+
+.skills {
+  text-align: right; 
+  padding-top: 10px;
+  padding-bottom: 10px; 
+  color: white; 
+}
+
+.html {width: 90%; background-color: #04AA6D;}
+.css {width: 80%; background-color: #2196F3;} 
+.js {width: 65%; background-color: #f44336;} 
+.php {width: 60%; background-color: #808080;} 
+
+.fa{
+     border: 1px solid black;
+     width:35px;
+     height:35px;
+     padding: 5px;
+     display:table;
+     text-align: center;
+     margin-left: auto;
+     margin-right: auto;
+    border-radius: 100%;
+    background-color:rgb(19, 227, 123);
+    height:33px;
+    
+    
+
+}
+#align{
+padding-left: 20vw
+}
+#text{
+    font-size:30px;
+}
+
+.fa:hover{
+    background-color:aliceblue;
+}
