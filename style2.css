@@ -16,10 +16,9 @@ body{
     
 }
 img{
-    width: 200px;
-    border-radius: 120vw;
-    background-color: transparent;
-    margin-bottom: 170px;
+    width:250px;
+    height :350px;
+    border-radius:100%;
 }
 .do{
     padding-left: 100px;
